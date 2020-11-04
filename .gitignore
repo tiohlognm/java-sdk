@@ -1,0 +1,28 @@
+# intellij  files
+**/.idea
+**/*.iml
+.run
+
+# target files
+**/target
+**/out
+
+
+# Package Files #
+*.war
+*.ear
+*.tar
+*.tar.gz
+*.rar
+
+
+**/logs
+**/log/*
+**/report/*
+
+/custom-checker/out_file
+Data/*
+
+META-INF
+
+ci
