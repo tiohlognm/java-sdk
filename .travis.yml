@@ -14,7 +14,7 @@ after_success:
 notifications:
   email:
     recipients:
-      - someone@fromproject.com
+      - blech.kate@ya.ru
     on_success: change
     on_failure: always
 
