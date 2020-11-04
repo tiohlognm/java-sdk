@@ -5,6 +5,8 @@ cache:
     - "$HOME/.cache"
 jdk:
   - openjdk8
+env:
+  - CODECOV_TOKEN="c59c9137-0695-4f67-90b4-0b79e8741b0a"
 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
