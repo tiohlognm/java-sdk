@@ -2,6 +2,7 @@
 **/.idea
 **/*.iml
 .run
+gradle
 
 # target files
 **/target
